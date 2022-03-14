@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-flexboxgrid-mlXi05koj](https://www.frontendmentor.io/solutions/order-summary-component-with-flexboxgrid-mlXi05koj)
 - Live Site URL: [https://onemanbanned.github.io/Order-Summary-Component/](https://onemanbanned.github.io/Order-Summary-Component/)
 
 ### Built with
